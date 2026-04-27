@@ -1,0 +1,7 @@
+com.purple.testapp-pngs-0 C:\Users\amar\Desktop\purple-testapp\app\build\generated\res\pngs\release
+com.purple.testapp-resValues-1 C:\Users\amar\Desktop\purple-testapp\app\build\generated\res\resValues\release
+com.purple.testapp-packageReleaseResources-2 C:\Users\amar\Desktop\purple-testapp\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.purple.testapp-packageReleaseResources-3 C:\Users\amar\Desktop\purple-testapp\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.purple.testapp-merged_res-4 C:\Users\amar\Desktop\purple-testapp\app\build\intermediates\merged_res\release
+com.purple.testapp-main-5 C:\Users\amar\Desktop\purple-testapp\app\src\main\res
+com.purple.testapp-release-6 C:\Users\amar\Desktop\purple-testapp\app\src\release\res
